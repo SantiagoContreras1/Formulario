@@ -1,1 +1,4 @@
+MainTest.class
+org\santiagocontreras\webapp\model\Producto.class
+org\santiagocontreras\webapp\util\JPAUtil.class
 org\santiagocontreras\webapp\servlet\ProductoServlet.class
